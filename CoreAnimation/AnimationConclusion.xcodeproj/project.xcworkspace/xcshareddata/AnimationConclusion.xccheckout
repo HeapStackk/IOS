@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBE34D20-7B81-4926-B400-7317D82967BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AnimationConclusion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>213493692AB5B95042F7FEF25813647D066DA057</key>
+		<string>https://github.com/HeapStackk/AnimationConclusion.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AnimationConclusion.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>213493692AB5B95042F7FEF25813647D066DA057</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HeapStackk/AnimationConclusion.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>213493692AB5B95042F7FEF25813647D066DA057</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>213493692AB5B95042F7FEF25813647D066DA057</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AnimationConclusion%2011.55.51%20PM</string>
+		</dict>
+	</array>
+</dict>
+</plist>
